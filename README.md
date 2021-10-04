@@ -11,6 +11,6 @@
 3. три
 
 ```python
-
+print("Hello, World!")
 
 
