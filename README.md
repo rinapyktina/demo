@@ -17,4 +17,5 @@ a=int ( input() )
 b=int ( input() )
 c=a+b
 print( a, "+", b, "=", c, sep=" " )
+```
 https://sun9-75.userapi.com/impg/Fvnk9iceNUuqGz-zgte54mmhtT2KsKvLSEXyqw/HObPqkU25OM.jpg?size=735x665&quality=96&sign=987fe8129440e94d42dcc27f2c5b2502&type=album
